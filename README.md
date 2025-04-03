@@ -4,7 +4,4 @@
 
 ### Project Demo
 
-<video width="100%" controls>
-  <source src="docs/demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[Click here to view the demo video](docs/demo.webm)
