@@ -1,0 +1,10 @@
+services:
+  mysql:
+    image: 'mysql:latest'
+    environment:
+      - 'MYSQL_DATABASE=userdb'
+      - 'MYSQL_PASSWORD=gaurav'
+      - 'MYSQL_ROOT_PASSWORD=G@urav15'
+      - 'MYSQL_USER=gaurav'
+    ports:
+      - '3306:3306'
